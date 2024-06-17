@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:heychats/register.dart';
 import 'login.dart';
 
-String ip="192.168.43.77:80";
+String ip="<ip>:80";
 
 void main() {
   runApp(MaterialApp(
